@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Senith Udara</h1>
 <h3 align="center">A passionate full-stack developer</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/parth-27/parth-27/master/dev.gif">
-
+<img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/parth-27/parth-27/master/dev.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senithudara" alt="senithudara" /></a> </p>
 
